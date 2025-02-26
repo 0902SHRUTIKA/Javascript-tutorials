@@ -58,3 +58,11 @@ console.log(result)
 const oddnumber=20
 if(!(oddnumber % 2==0))
     console.log(oddnumber)
+
+console.log("*!!!!!!!!!! PRINTING EVEN-ODD NUMBERS !!!!!!!!!!!!*")
+let num = 40;
+if(num % 2 == 0){
+    console.log(num + " : " + " is even number" )
+} else{
+    console.log(num +" : "+  " is odd number")
+}
