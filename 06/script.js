@@ -59,6 +59,14 @@ do{
 }while(true)
 // // break;A 'break' statement can only be used within an enclosing iteration or switch statement.
 
+// console.log("<<<<<<<<<<<<< NUMBER GUESSING >>>>>>>>>>>>");
+
+// let num = 10;
+// let guess; // Initialize without a value
+
+// do {
+//     guess = parseInt(prompt("Guess the number")); // Ensure input is a number
+
 // let num = 10;
 // let guess = 0;
 // let isWinner = false; // Flag to check if the user won
